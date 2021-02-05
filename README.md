@@ -1,6 +1,6 @@
 # K-Medoids Clustering
 
-Created by: Daniel Song, Timothy Wong, and Harry Hao
+Created by: Haitian Hao, Daniel Song, Timothy Wong
 
 Adapted from [Capital One's GAM GitHub](https://github.com/capitalone/global-attribution-mapping)
 
